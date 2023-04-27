@@ -1,6 +1,9 @@
-header{
-    background-color: #424242;
+body{
+    background-color: #000;
     color: white;
+}
+
+header{
     display: flex;
     justify-content: space-around;
 }
@@ -15,4 +18,9 @@ header{
 *{
     margin: 0;
     padding: 0;
+}
+
+.imagem-tiktube{
+    background: #424242;
+    color: #424242;
 }
